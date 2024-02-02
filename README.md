@@ -25,13 +25,19 @@ To enhance robustness and achieve faster outputs, the project emphasizes the tra
 #### Integration of Preexisting Models
 Blink-And-You-Miss-It is committed to achieving high accuracy by implementing well-established Convolutional Neural Network (CNN) architectures, including AlexNet, ResNet, and others. The incorporation of these preexisting models aims to explore various strategies for traffic sign recognition, pushing the boundaries of accuracy and efficiency.
 
-## About Dataset
-### Context
+## About the Datasets
+### GTSRB - German Traffic Sign Recognition Benchmark [->](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
 The German Traffic Sign Benchmark is a multi-class, single-image classification challenge held at the International Joint Conference on Neural Networks (IJCNN) 2011. The benchmark has the following properties:
 - Single-image, multi-class classification problem
 - More than 40 classes
 - More than 50,000 images in total
 - Large, lifelike database
 
-### Acknowledgements
+#### Acknowledgements
 [INI Benchmark Website](http://benchmark.ini.rub.de/)
+
+### Mapillary Traffic Sign Dataset [->](https://www.mapillary.com/dataset/trafficsign) 
+Blink-And-You-Miss-It utilizes the Mapillary Traffic Sign Dataset, a diverse street-level imagery dataset with bounding box annotations for detecting and classifying traffic signs globally.
+
+#### License:
+By incorporating the Mapillary Traffic Sign Dataset, this project adheres to the Creative Commons Attribution NonCommercial Share Alike (CC BY-NC-SA) license. The usage of this dataset is in accordance with the CC BY-NC-SA license and the Mapillary Terms of Use.

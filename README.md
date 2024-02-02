@@ -25,5 +25,13 @@ To enhance robustness and achieve faster outputs, the project emphasizes the tra
 #### Integration of Preexisting Models
 Blink-And-You-Miss-It is committed to achieving high accuracy by implementing well-established Convolutional Neural Network (CNN) architectures, including AlexNet, ResNet, and others. The incorporation of these preexisting models aims to explore various strategies for traffic sign recognition, pushing the boundaries of accuracy and efficiency.
 
-## Getting Started
-To use Blink-And-You-Miss-It, follow these steps:
+## About Dataset
+### Context
+The German Traffic Sign Benchmark is a multi-class, single-image classification challenge held at the International Joint Conference on Neural Networks (IJCNN) 2011. The benchmark has the following properties:
+- Single-image, multi-class classification problem
+- More than 40 classes
+- More than 50,000 images in total
+- Large, lifelike database
+
+### Acknowledgements
+[INI Benchmark Website](http://benchmark.ini.rub.de/)

@@ -2,6 +2,8 @@
 This project is a comprehensive pipeline designed to detect and assist drivers in identifying incoming traffic signs in a highway-like setup. The project employs a multi-stage approach involving four classifiers to enhance the accuracy and speed of traffic sign recognition.
 
 ## Pipeline Overview
+![Pipeline](https://github.com/SohhamSeal/Blink-And-You-Miss-It/blob/main/Flow%20Diagrams/Overall%20Operation.png?raw=true)
+
 ### Traffic Sign Detection:
 The first classifier determines whether each snapshot of a video contains a traffic sign or not.
 

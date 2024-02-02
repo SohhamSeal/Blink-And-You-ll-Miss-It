@@ -1,4 +1,4 @@
-# Blink And You Miss It
+# Blink And You Miss It!!
 This project is a comprehensive pipeline designed to detect and assist drivers in identifying incoming traffic signs in a highway-like setup. The project employs a multi-stage approach involving four classifiers to enhance the accuracy and speed of traffic sign recognition.
 
 ## Pipeline Overview

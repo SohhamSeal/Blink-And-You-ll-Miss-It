@@ -39,5 +39,17 @@ The German Traffic Sign Benchmark is a multi-class, single-image classification 
 ### Mapillary Traffic Sign Dataset [->](https://www.mapillary.com/dataset/trafficsign) 
 Blink-And-You-Miss-It utilizes the Mapillary Traffic Sign Dataset, a diverse street-level imagery dataset with bounding box annotations for detecting and classifying traffic signs globally.
 
+### Results
+The following details were obtained on the dataset mentioned above:
+____________________________
+| Model         | Accuracy |
+|---------------|----------|
+| Classifier 1  | 91.5     |
+| Classifier 2  | 97.24    |
+| Classifier 3  | 99.98    |
+| Classifier 4  | 95.49    |
+| Overall Model | 89.8     |
+|---------------|----------|
+
 #### License:
 By incorporating the Mapillary Traffic Sign Dataset, this project adheres to the Creative Commons Attribution NonCommercial Share Alike (CC BY-NC-SA) license. The usage of this dataset is in accordance with the CC BY-NC-SA license and the Mapillary Terms of Use.

@@ -41,7 +41,6 @@ Blink-And-You-Miss-It utilizes the Mapillary Traffic Sign Dataset, a diverse str
 
 ### Results
 The following details were obtained on the dataset mentioned above:
-____________________________
 | Model         | Accuracy |
 |---------------|----------|
 | Classifier 1  | 91.5     |
@@ -49,7 +48,6 @@ ____________________________
 | Classifier 3  | 99.98    |
 | Classifier 4  | 95.49    |
 | Overall Model | 89.8     |
-|---------------|----------|
 
 #### License:
 By incorporating the Mapillary Traffic Sign Dataset, this project adheres to the Creative Commons Attribution NonCommercial Share Alike (CC BY-NC-SA) license. The usage of this dataset is in accordance with the CC BY-NC-SA license and the Mapillary Terms of Use.
